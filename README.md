@@ -1,2 +1,5 @@
-# project1-s18
-Student assignment, to be completed on the first Friday of class
+# Project 1 - Campaign Website
+
+To be completed independently by each student during class time on Friday during Week 1.
+
+Read /docs/requirements.md for instructions.
