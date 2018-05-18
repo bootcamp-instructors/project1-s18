@@ -41,6 +41,7 @@ Remember to include a prominent picture of your candidate and a call to action -
 
 Minimally:
 
+```
   app/
     index.html - menu page
     main.css - stylesheet
@@ -49,6 +50,7 @@ Minimally:
   README.md
   Procfile
   package.json
+```
 
 Make sure there's something to read in your README file.
 
