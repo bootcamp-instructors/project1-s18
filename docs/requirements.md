@@ -15,18 +15,20 @@ a link to get you started:
 To complete the assignment, you must:
 
 1. Create a public repo in your personal Github account.
-2. Create an HTML file and a CSS file and add them to your project.
-3. Push your code to Github.
-4. Deploy your application to Heroku.
-5. Post links to your Github repo and Heroku application to the Project 1 Slack channel.
+2. Create an HTML file and an SCSS file and add them to your project.
+3. Set up gulp to convert your Sass code into CSS.
+4. Set up an Express server for your code.
+5. Push your code to Github.
+6. Deploy your application to Heroku.
+7. Post links to your Github repo and Heroku application to the Project 1 Slack channel.
 
-You may use Bootstrap for basic styling.
+You may use Bootstrap for basic styling and incorporate it into your Sass file.
 
 
 ## Content
 
-Your website should introduce the public to your candidate, explain why he/she/it is running, and list
-three issues that are important to him/her/it. 
+Your website should introduce the public to your candidate, explain why they are running, and list
+three issues that are important to them. 
 
 Your job is to make it easy for voters to see whether your candidate's beliefs align with their own.
 
@@ -43,16 +45,19 @@ Minimally:
 
   app/
     index.html - menu page
-    main.css - stylesheet
+    main.scss - stylesheet
+  dist/
   docs/
     requirements.md
   README.md
   Procfile
   package.json
+  gulpfile.js
+  index.js
 
-Make sure there's something to read in your README file.
+Make sure there's something to read in your README file - namely, installation instructions.
 
-It's okay if your project has more files, but at the least you need the ones listed above.
+It's okay if your project has more files and more directories, but at the least you need the ones listed above.
 
 
 
