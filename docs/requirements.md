@@ -43,6 +43,7 @@ Remember to include a prominent picture of your candidate and a call to action -
 
 Minimally:
 
+```
   app/
     index.html - menu page
     main.scss - stylesheet
@@ -54,6 +55,7 @@ Minimally:
   package.json
   gulpfile.js
   index.js
+```
 
 Make sure there's something to read in your README file - namely, installation instructions.
 
